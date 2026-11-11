@@ -159,3 +159,15 @@ University-Fee-Analysis/
 - The project has no payment transaction status field, so failed or reversed transactions cannot be analysed.
 - The overdue count and amount use 10 November 2026 as the reproducible SQL snapshot date. Power BI's `TODAY()`-based measures are dynamic.
 - The top-five student view ranks outstanding amounts at student level after aggregating each student's invoice balances. The fifth position contains a tie in the supplied data.
+
+### 1. Executive Overview
+![Executive Overview](powerbi/screenshots/executive-overview.png)
+
+### 2. Payment Analysis
+![Payment Analysis](powerbi/screenshots/payment-analysis.png)
+
+### 3. Outstanding Analysis
+![Outstanding Analysis](powerbi/screenshots/outstanding-analysis.png)
+
+### 4. Key Findings and Recommendations
+![Key Findings](powerbi/screenshots/key-findings.png)
