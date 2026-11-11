@@ -1,0 +1,9 @@
+# Power BI temporary/backup files
+*.pbix.autosave
+*.tmp
+~$*.xlsx
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/

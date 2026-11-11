@@ -1,0 +1,21 @@
+﻿StudentID,StudentName,DepartmentID,Program,AdmissionYear,StudentType
+1001,Aarav Menon,D01,BTech Computer Science,2022,Day Scholar
+1002,Diya Nair,D01,BTech Computer Science,2023,Hosteller
+1003,Kabir Shah,D01,BTech Computer Science,2024,Day Scholar
+1004,Ananya Rao,D01,BTech Computer Science,2025,Hosteller
+1005,Ishaan Das,D01,BTech Computer Science,2022,Day Scholar
+1006,Mira Thomas,D02,BTech Electronics,2022,Hosteller
+1007,Rohan Iyer,D02,BTech Electronics,2023,Day Scholar
+1008,Sana Khan,D02,BTech Electronics,2024,Hosteller
+1009,Vivaan Pillai,D02,BTech Electronics,2025,Day Scholar
+1010,Tara Joseph,D02,BTech Electronics,2022,Hosteller
+1011,Aditya Kumar,D03,BTech Mechanical,2022,Day Scholar
+1012,Nila Varma,D03,BTech Mechanical,2023,Hosteller
+1013,Rehan Ali,D03,BTech Mechanical,2024,Day Scholar
+1014,Ira Suresh,D03,BTech Mechanical,2025,Hosteller
+1015,Neil George,D03,BTech Mechanical,2022,Day Scholar
+1016,Aditi Sen,D04,BTech Electrical,2022,Hosteller
+1017,Arjun Menon,D04,BTech Electrical,2023,Day Scholar
+1018,Myra Kapoor,D04,BTech Electrical,2024,Hosteller
+1019,Dev Patel,D04,BTech Electrical,2025,Day Scholar
+1020,Kiara Dutta,D04,BTech Electrical,2022,Hosteller

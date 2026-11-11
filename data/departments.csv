@@ -1,0 +1,5 @@
+﻿DepartmentID,DepartmentName,DepartmentCode,CollectionTarget
+D01,Computer Science,CSE,630000
+D02,Electronics and Communication,ECE,550000
+D03,Mechanical Engineering,ME,580000
+D04,Electrical Engineering,EEE,530000
